@@ -19,5 +19,6 @@ include "plantilla/cabecera.php";
 </form>
 
 <?php
+$mensaje = "Copy EscuelaIT y Desarrolloweb.com";
 include "plantilla/pie.php";
 ?>

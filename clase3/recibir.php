@@ -20,5 +20,6 @@ include "plantilla/cabecera.php";
 </p>
 
 <?php
+$mensaje = "Copy EscuelaIT";
 include "plantilla/pie.php";
 ?>
