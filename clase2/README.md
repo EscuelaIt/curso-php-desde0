@@ -1,0 +1,1 @@
+No tenemos código en esta clase, pues los ejemplos realizados eran sólo para probar los diferentes entornos de ejecución y son básicamente una única línea de programación, o a lo sumo dos, con lo que no es necesario reproducirlo aquí.
